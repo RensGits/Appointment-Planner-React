@@ -1,4 +1,4 @@
---> https://rensgits.github.io/contacts <--
+--> https://rensgits.github.io/Appointment-Planner <--
 
 A contact and appointment planner made as part of the codecademy Front-end development career path. 
 This particular assignment was a code challenge where no checking mechanism was in place and was made outside of the browser in my own IDE. 

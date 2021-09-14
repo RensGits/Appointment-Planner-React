@@ -25,6 +25,7 @@ function App() {
   return (
     <>
       <nav>
+   
         <NavLink to={ROUTES.CONTACTS} activeClassName="active">
           Contacts
         </NavLink>
@@ -34,9 +35,9 @@ function App() {
       </nav>
       <main>
         <Switch>
-          <Route exact path="/">
+          {/* <Route exact path="/Appointment-Planner">
             <Redirect to={ROUTES.CONTACTS} />
-          </Route>
+          </Route> */}
           <Route path={ROUTES.CONTACTS}>
             <ContactsPage addContact = {addContact} contacts = {contacts} />
           </Route>
