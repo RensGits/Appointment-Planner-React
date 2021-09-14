@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Appointment-Planner/static/js/main.d393ff7a.chunk.js",
-    "main.js.map": "/Appointment-Planner/static/js/main.d393ff7a.chunk.js.map",
-    "runtime-main.js": "/Appointment-Planner/static/js/runtime-main.b5ab3164.js",
-    "runtime-main.js.map": "/Appointment-Planner/static/js/runtime-main.b5ab3164.js.map",
-    "static/js/2.f8256d85.chunk.js": "/Appointment-Planner/static/js/2.f8256d85.chunk.js",
-    "static/js/2.f8256d85.chunk.js.map": "/Appointment-Planner/static/js/2.f8256d85.chunk.js.map",
-    "index.html": "/Appointment-Planner/index.html",
-    "static/js/2.f8256d85.chunk.js.LICENSE.txt": "/Appointment-Planner/static/js/2.f8256d85.chunk.js.LICENSE.txt"
+    "main.js": "/contact/static/js/main.d393ff7a.chunk.js",
+    "main.js.map": "/contact/static/js/main.d393ff7a.chunk.js.map",
+    "runtime-main.js": "/contact/static/js/runtime-main.fc499d1c.js",
+    "runtime-main.js.map": "/contact/static/js/runtime-main.fc499d1c.js.map",
+    "static/js/2.f8256d85.chunk.js": "/contact/static/js/2.f8256d85.chunk.js",
+    "static/js/2.f8256d85.chunk.js.map": "/contact/static/js/2.f8256d85.chunk.js.map",
+    "index.html": "/contact/index.html",
+    "static/js/2.f8256d85.chunk.js.LICENSE.txt": "/contact/static/js/2.f8256d85.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5ab3164.js",
+    "static/js/runtime-main.fc499d1c.js",
     "static/js/2.f8256d85.chunk.js",
     "static/js/main.d393ff7a.chunk.js"
   ]
